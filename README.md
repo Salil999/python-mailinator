@@ -1,6 +1,5 @@
 # python-mailinator
 A simple Python3 wrapper to the amazing [Mailinator](https://www.mailinator.com) service!
-___
 
 ## Installation
 Install using pip3
