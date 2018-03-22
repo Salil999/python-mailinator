@@ -8,7 +8,7 @@ pip3 install python-mailinator
 ```
 
 ## Instructions
-Make sure you have an API key! You may request one at the Mailinator [website](https://www.mailinator.com/manyauth/teamsettings.jsp).
+Make sure you have an API key! You may request one at the Mailinator [website](https://www.mailinator.com/pricingmatrix.jsp).
 ```
 from python-mailinator.mailinator import MailinatorInbox
 API_KEY = <your_api_key>
