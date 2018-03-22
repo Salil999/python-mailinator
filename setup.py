@@ -8,7 +8,7 @@ setup(
     author='Shashank Saxena',
     author_email='saxena.shashank96@gmail.com',
     url='https://github.com/Salil999/python-mailinator',  # use the URL to the github repo
-    download_url='https://github.com/peterldowns/mypackage/archive/0.1.tar.gz',  # I'll explain this in a second
+    download_url='https://github.com/Salil999/python-mailinator/archive/1.0.tar.gz',  # I'll explain this in a second
     keywords=['mailinator', 'spam', 'email', 'mail', 'internet', 'address'],  # arbitrary keywords
     classifiers=[],
 )
